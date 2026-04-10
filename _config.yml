@@ -5,9 +5,9 @@ title                    : "Yude Fu (Olaf)"
 title_separator          : "-"
 name                     : &name "Yude Fu (Olaf)"
 description              : &description "Yude Fu (Olaf)'s academic portfolio - Building Performance Diagnostics"
-url                      : https://github.com/Olafyd/ # 改成你的 GitHub 用户名
+url                      : https://Olafyd.github.io # 改成你的 GitHub 用户名
 baseurl                  : ""
-repository               : "https://github.com/Olafyd/" # 改成你的 GitHub 用户名
+repository               : "Olafyd/Olafyd.github.io" # 改成你的 GitHub 用户名
 
 # Site Author
 author:
