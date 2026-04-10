@@ -5,9 +5,9 @@ title                    : "Yude Fu (Olaf)"
 title_separator          : "-"
 name                     : &name "Yude Fu (Olaf)"
 description              : &description "Yude Fu (Olaf)'s academic portfolio - Building Performance Diagnostics"
-url                      : https://Olafyd.github.io # 改成你的 GitHub 用户名
+url                      : https://OlafFu.github.io # 改成你的 GitHub 用户名
 baseurl                  : ""
-repository               : "Olafyd/Olafyd.github.io" # 改成你的 GitHub 用户名
+repository               : "OlafFU/OlafFu.github.io" # 改成你的 GitHub 用户名
 
 # Site Author
 author:
@@ -18,7 +18,7 @@ author:
   bio              : "MS in Building Performance Diagnostics @ Carnegie Mellon University. Building energy simulation, HVAC design, and low-carbon systems."
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
-  uri              : "https://github.com/Olafyd/"
+  uri              : "https://github.com/OlafFu/"
   email            : "yudef@andrew.cmu.edu"
 
   # Academic websites
