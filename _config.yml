@@ -12,7 +12,7 @@ repository               : "OlafFU/OlafFu.github.io" # 改成你的 GitHub 用�
 # Site Author
 author:
   # Biographic information
-  avatar           : "selfie.jpg"
+  avatar           : "profile.png"
   name             : "Yude Fu (Olaf)"
   pronouns         :
   bio              : "MS in Building Performance Diagnostics @ Carnegie Mellon University. Building energy simulation, HVAC design, and low-carbon systems."
