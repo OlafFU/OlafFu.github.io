@@ -1,10 +1,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yude Fu (Olaf)"
+title                    : "Yude Fu"
 title_separator          : "-"
-name                     : &name "Yude Fu (Olaf)"
-description              : &description "Yude Fu (Olaf)'s academic portfolio - Building Performance Diagnostics"
+name                     : &name "Yude Fu"
+description              : &description "Yude Fu's academic portfolio - Building Performance Diagnostics"
 url                      : https://OlafFu.github.io # 改成你的 GitHub 用户名
 baseurl                  : ""
 repository               : "OlafFU/OlafFu.github.io" # 改成你的 GitHub 用户名
@@ -13,7 +13,7 @@ repository               : "OlafFU/OlafFu.github.io" # 改成你的 GitHub 用�
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yude Fu (Olaf)"
+  name             : "Yude Fu"
   pronouns         :
   bio              : "MS in Building Performance Diagnostics @ Carnegie Mellon University. Building energy simulation, HVAC design, and low-carbon systems."
   location         : "Pittsburgh, PA"
